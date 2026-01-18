@@ -1,0 +1,8 @@
+header {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.header__logo {
+    width: var(--width-logo-header);
+}
